@@ -1,0 +1,16 @@
+{
+    "current_node": 0,
+    "start_time": null,
+    "business_problem": null,
+    "target_department": null,
+    "stakeholder_request": null,
+    "node_status": {
+      "1": "pending",
+      "2": "pending", 
+      "3": "pending",
+      "4": "pending",
+      "5": "pending",
+      "6": "pending",
+      "7": "pending"
+    }
+  }
