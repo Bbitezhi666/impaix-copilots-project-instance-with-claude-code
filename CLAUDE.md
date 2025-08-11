@@ -1,3 +1,5 @@
+# Always Respond in 中文
+
 # impAIx - L&D AI Copilot 系统
 
 ## 🎯 项目概述
