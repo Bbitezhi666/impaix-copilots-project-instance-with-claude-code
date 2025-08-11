@@ -1,5 +1,5 @@
 {
-    "current_node": 3,
+    "current_node": 7,
     "start_time": "2025-08-11T00:00:00Z",
     "business_problem": "销售业绩持续下滑，团队表现不佳，影响企业整体经营目标达成",
     "target_department": "销售部门（一线销售团队）",
@@ -8,9 +8,9 @@
       "1": "completed",
       "2": "completed", 
       "3": "completed",
-      "4": "pending",
-      "5": "pending",
-      "6": "pending",
-      "7": "pending"
+      "4": "completed",
+      "5": "completed",
+      "6": "completed",
+      "7": "completed"
     }
   }
