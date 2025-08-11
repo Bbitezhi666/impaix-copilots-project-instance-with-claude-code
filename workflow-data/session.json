@@ -1,16 +1,16 @@
 {
-    "current_node": 0,
-    "start_time": null,
-    "business_problem": null,
-    "target_department": null,
-    "stakeholder_request": null,
+    "current_node": 7,
+    "start_time": "2025-08-11T00:00:00Z",
+    "business_problem": "销售业绩持续下滑，团队表现不佳，影响企业整体经营目标达成",
+    "target_department": "销售部门（一线销售团队）",
+    "stakeholder_request": "3个月内销售额回升至目标水平，新销售达标率提升到80%，客户满意度评分评分达到4.5/5.0，销售团队离职率控制在10%以内",
     "node_status": {
-      "1": "pending",
-      "2": "pending", 
-      "3": "pending",
-      "4": "pending",
-      "5": "pending",
-      "6": "pending",
-      "7": "pending"
+      "1": "completed",
+      "2": "completed", 
+      "3": "completed",
+      "4": "completed",
+      "5": "completed",
+      "6": "completed",
+      "7": "completed"
     }
   }
