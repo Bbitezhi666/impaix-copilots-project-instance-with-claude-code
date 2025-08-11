@@ -1,5 +1,5 @@
 {
-    "current_node": 2,
+    "current_node": 4,
     "start_time": "2025-08-11T00:00:00Z",
     "business_problem": "销售团队连续3个季度未达成业绩目标，新员工成单率低，老员工缺乏新产品销售技巧",
     "target_department": "销售部（全国5个区域销售团队，约120人）",
@@ -7,7 +7,7 @@
     "node_status": {
       "1": "completed",
       "2": "completed", 
-      "3": "pending",
+      "3": "completed",
       "4": "pending",
       "5": "pending",
       "6": "pending",
