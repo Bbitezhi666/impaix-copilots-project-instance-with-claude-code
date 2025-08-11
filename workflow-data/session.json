@@ -2,9 +2,9 @@
   "current_node": 1,
   "node_name": "Start",
   "start_time": "2025-08-11T00:00:00Z",
-  "business_problem": "",
-  "target_department": "",
-  "stakeholder_request": "",
+  "business_problem": "销售团队连续3个季度未达成业绩目标，新员工成单率低，老员工缺乏新产品销售技巧",
+  "target_department": "销售部（全国5个区域销售团队，约120人）",
+  "stakeholder_request": "销售总监要求在Q4前提升15%的销售额，CEO要求制定系统性的销售能力提升计划",
   "node_status": {
     "1": "in_progress",
     "2": "pending", 
